@@ -102,18 +102,6 @@ SQL Practice
 
 ✅ HAVING
 
-✅ CASE WHEN
-
-✅ JOINS
-
-✅ Subqueries
-
-✅ Common Table Expressions (CTEs)
-
-✅ Window Functions
-
-✅ Date Functions
-
 ---
 
 # Preview
