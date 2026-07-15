@@ -1,18 +1,19 @@
 <div align="center">
 
-# SQL Practice
+# SQL Practice Journey
 
 ### Learn SQL by Solving Problems Not by Watching Videos
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=700&lines=SELECT+*+FROM+practice;19+Questions+Solved;Learning+Through+Consistency;SQL+Practice+Journey"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=2EA043&center=true&vCenter=true&width=700&lines=SELECT+*+FROM+Practice;19+Questions+Solved;Consistency+Beats+Motivation;Learning+SQL+One+Query+At+A+Time" />
 </p>
 
-![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-Practice-blue?style=for-the-badge&logo=postgresql)
 ![Level](https://img.shields.io/badge/Level-1-success?style=for-the-badge)
-![Practice](https://img.shields.io/badge/Practice-Daily-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge)
 
 </div>
+
 ---
 
 # About
@@ -23,14 +24,19 @@ While reading **Atomic Habits**, one idea really stood out to me.
 
 I believe this applies perfectly to **SQL**.
 
-SQL isn't a skill you master by watching tutorials or reading documentation alone.
-It improves through solving problems, making mistakes, and practicing consistently.
+SQL isn't a skill you master by watching tutorials or reading documentation.
 
-That's the purpose of this repository.
+It improves through solving problems.
+
+Every query teaches you something.
+
+Every mistake teaches you something.
+
+That's why this repository exists.
 
 I'm not trying to solve the hardest SQL questions.
 
-I'm trying **not to stop practicing.**
+I'm simply trying **not to stop practicing.**
 
 ---
 
@@ -38,62 +44,115 @@ I'm trying **not to stop practicing.**
 
 This repository documents my SQL practice journey.
 
-Each level contains practical questions with their solutions to improve:
+Each level contains practical SQL questions with complete solutions.
 
-- SQL fundamentals
-- Query writing
-- Problem-solving
-- Analytical thinking
-- Database confidence
+The purpose is simple.
 
-The objective is simple:
-
-> Practice consistently.
-> Improve gradually.
-> Learn by doing.
+- Build consistency.
+- Improve SQL thinking.
+- Learn by solving problems.
+- Track my progress over time.
 
 ---
 
 # Repository Structure
 
 ```
-SQL Practice/
+SQL Practice
 │
+├── README.md
 ├── SQL PRACTICE - LEVEL 1.sql
 └── SQL PRACTICE - LEVEL 1.pdf
 ```
 
-### SQL PRACTICE - LEVEL 1.sql
+---
 
-Contains:
+# Files
 
-- 19 SQL practice questions
-- Complete solutions
-- Clean and organized queries
-
-### SQL PRACTICE - LEVEL 1.pdf
-
-A PDF version of the same practice set for easier reading and sharing.
+| File | Description |
+|------|-------------|
+| 📄 [SQL PRACTICE - LEVEL 1.pdf](./SQL%20PRACTICE%20-LEVEL%201.pdf) | Practice questions with their solutions in PDF format |
+| 💾 [SQL PRACTICE - LEVEL 1.sql](./SQL%20PRACTICE%20-LEVEL%201.sql) | Executable SQL script containing all practice questions and solutions |
 
 ---
 
-# Current Progress
+# Practice Overview
 
-| Level | Questions | Status |
-|--------|-----------|--------|
-| Level 1 | 19 | ✅ Completed |
+| Level | Questions | Difficulty | Status |
+|--------|----------:|-----------|--------|
+| Level 1 | 19 | Beginner | ✅ Completed |
 
-More practice levels will be added over time.
+---
+
+# Skills Covered
+
+✅ SELECT
+
+✅ WHERE
+
+✅ ORDER BY
+
+✅ LIMIT
+
+✅ DISTINCT
+
+✅ Aggregate Functions
+
+✅ GROUP BY
+
+✅ HAVING
+
+✅ CASE WHEN
+
+✅ JOINS
+
+✅ Subqueries
+
+✅ Common Table Expressions (CTEs)
+
+✅ Window Functions
+
+✅ Date Functions
+
+---
+
+# Preview
+
+Here is a small example from the practice.
+
+```sql
+SELECT
+    customer_name,
+    country
+FROM customers
+WHERE country = 'Egypt';
+```
+
+The complete set of **19 SQL practice questions with their solutions** is available in the SQL and PDF files above.
 
 ---
 
 # Why I'm Sharing This
 
-Keeping practice private helps me.
+Learning in private helps me.
 
-Sharing it helps everyone.
+Sharing what I learn might help someone else.
 
-If these exercises save someone time, teach a new concept, or help prepare for an interview, then publishing them is worth it.
+If these exercises save someone time, explain a new concept, or help prepare for an interview, then sharing them is worth it.
 
 ---
 
+# What's Next
+
+- ✅ Level 1
+- ⏳ Level 2
+- ⏳ Level 3
+- ⏳ Advanced SQL Challenges
+- ⏳ Interview Questions
+- ⏳ PostgreSQL Practice
+
+---
+
+<div align="center">
+### Consistency > Motivation
+</div>
