@@ -8,13 +8,15 @@
 ![Level](https://img.shields.io/badge/Level-1-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge)
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJhZnQ4NWJ0YzVvZ2ZrZXFvNGFpN2x3MzRwNWI0b2k5NzY0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="450"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=SELECT+*+FROM+practice;Practice+Every+Day;Learn+By+Solving+Problems;SQL+Practice+Journey" />
+</p>
 
 </div>
 
 ---
 
-# 📖 About
+# About
 
 While reading **Atomic Habits**, one idea really stood out to me.
 
@@ -33,7 +35,7 @@ I'm trying **not to stop practicing.**
 
 ---
 
-# 🎯 Goal
+# Goal
 
 This repository documents my SQL practice journey.
 
@@ -53,7 +55,7 @@ The objective is simple:
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```
 SQL Practice/
@@ -76,7 +78,7 @@ A PDF version of the same practice set for easier reading and sharing.
 
 ---
 
-# 🚀 Current Progress
+# Current Progress
 
 | Level | Questions | Status |
 |--------|-----------|--------|
@@ -86,7 +88,7 @@ More practice levels will be added over time.
 
 ---
 
-# 💡 Why I'm Sharing This
+# Why I'm Sharing This
 
 Keeping practice private helps me.
 
@@ -96,10 +98,3 @@ If these exercises save someone time, teach a new concept, or help prepare for a
 
 ---
 
-<div align="center">
-
-### ⭐ If you find this repository useful, consider giving it a star.
-
-Happy Learning ❤️
-
-</div>
