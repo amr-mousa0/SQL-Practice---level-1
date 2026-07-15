@@ -1,19 +1,18 @@
 <div align="center">
 
-# 💻 SQL Practice
+# SQL Practice
 
-### Learning SQL one query at a time
+### Learn SQL by Solving Problems Not by Watching Videos
 
-![SQL](https://img.shields.io/badge/SQL-Practice-blue?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-1-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge)
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=SELECT+*+FROM+practice;Practice+Every+Day;Learn+By+Solving+Problems;SQL+Practice+Journey" />
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=700&lines=SELECT+*+FROM+practice;19+Questions+Solved;Learning+Through+Consistency;SQL+Practice+Journey"/>
 </p>
 
-</div>
+![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=postgresql)
+![Level](https://img.shields.io/badge/Level-1-success?style=for-the-badge)
+![Practice](https://img.shields.io/badge/Practice-Daily-orange?style=for-the-badge)
 
+</div>
 ---
 
 # About
