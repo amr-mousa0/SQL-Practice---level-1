@@ -55,6 +55,14 @@
       "featured": false,
       "priority": 60,
       "customTitle": "SQL Practice Journey - Level 1"
+    },
+
+    "mousa-analytics": {
+      "enabled": true,
+      "visibility": "public",
+      "featured": false,
+      "priority": 60,
+      "customTitle": "SQL Practice Journey - Level 1"
     }
   }
 }
