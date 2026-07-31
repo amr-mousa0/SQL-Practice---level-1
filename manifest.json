@@ -9,48 +9,25 @@
 
     "status": "production",
 
-    "repositoryType": "learning",
-
-    "primaryLanguage": "SQL",
-
-    "technologies": [
-      "SQL",
-      "PostgreSQL"
-    ],
-
     "tags": [
       "SQL",
+      "PostgreSQL",
       "Database",
       "Practice",
       "Learning",
-      "PostgreSQL",
       "Data Analysis"
     ],
 
-    "assets": {
-      "cover": "assets/cover.webp",
-      "gallery": [],
-      "logo": null
-    },
+    "cover": "assets/cover.webp",
 
-    "links": {
-      "demo": null,
-      "caseStudy": null
-    },
+    "demo": null,
+
+    "caseStudy": null,
 
     "capabilities": {
-      "cover": true,
-      "gallery": false,
       "demo": false,
       "caseStudy": false,
-      "logo": false
-    },
-
-    "metrics": {
-      "level": 1,
-      "questions": 19,
-      "difficulty": "Beginner",
-      "completed": true
+      "cover": true
     }
   },
 
@@ -60,8 +37,7 @@
       "visibility": "public",
       "featured": false,
       "priority": 60,
-      "customTitle": "SQL Practice Journey — Level 1",
-      "category": "Learning Projects"
+      "customTitle": "SQL Practice Journey - Level 1"
     }
   }
 }
