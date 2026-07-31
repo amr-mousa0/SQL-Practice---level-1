@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "minimumReaderVersion": 1,
+
+  "project": {
+    "title": "SQL Practice Journey - Level 1",
+
+    "description": "A structured SQL practice repository documenting the first stage of learning SQL through practical exercises and complete solutions focused on core SQL fundamentals.",
+
+    "status": "production",
+
+    "repositoryType": "learning",
+
+    "primaryLanguage": "SQL",
+
+    "technologies": [
+      "SQL",
+      "PostgreSQL"
+    ],
+
+    "tags": [
+      "SQL",
+      "Database",
+      "Practice",
+      "Learning",
+      "PostgreSQL",
+      "Data Analysis"
+    ],
+
+    "assets": {
+      "cover": "assets/cover.webp",
+      "gallery": [],
+      "logo": null
+    },
+
+    "links": {
+      "demo": null,
+      "caseStudy": null
+    },
+
+    "capabilities": {
+      "cover": true,
+      "gallery": false,
+      "demo": false,
+      "caseStudy": false,
+      "logo": false
+    },
+
+    "metrics": {
+      "level": 1,
+      "questions": 19,
+      "difficulty": "Beginner",
+      "completed": true
+    }
+  },
+
+  "publish": {
+    "portfolio": {
+      "enabled": true,
+      "visibility": "public",
+      "featured": false,
+      "priority": 60,
+      "customTitle": "SQL Practice Journey — Level 1",
+      "category": "Learning Projects"
+    }
+  }
+}
